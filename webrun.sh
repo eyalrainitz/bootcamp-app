@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/Ohad/bootcamp-app
+cd /home/Eyal/bootcamp-app
 npm run dev
