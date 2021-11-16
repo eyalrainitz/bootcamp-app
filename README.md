@@ -1,9 +1,11 @@
 
 <h3>cloud topology diagram</h3>
+
 <img src="https://user-images.githubusercontent.com/83788264/141863654-2b3db699-db23-4ff7-aff8-a2a408e34782.png" width=500 height=300>
 
 
 In our cloud provider we can see the topology to stage & production
+
 <img src="https://user-images.githubusercontent.com/83788264/141863894-c385fd28-4252-44d8-8e55-f88457a42d54.png" width=500 height=200>
 <br>
 
